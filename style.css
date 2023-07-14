@@ -1,6 +1,6 @@
 body
 {
-    background-image: url('Rectangle.png');
+   
     position: absolute;
     background-repeat: no-repeat;
 }
@@ -16,5 +16,9 @@ body
             justify-content: center;
             align-items: center;
             height: 100vh;
+           
+               
+            
 
 }
+
