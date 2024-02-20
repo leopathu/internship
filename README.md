@@ -1,4 +1,4 @@
-# internship
+# internship - creating a landing page using html,css,tailwind css and js
 
 
 Important Git commands:
